@@ -12,10 +12,10 @@ let package = Package(
             targets: ["HappyPath"]),
     ],
     dependencies: [
-         .package(url: "https://github.com/rcaraway/HappyLoader", from: "1.0"),
-         .package(url: "https://github.com/rcaraway/HappyDefaults", from: "1.0"),
-         .package(url: "https://github.com/rcaraway/HappyToast", from: "1.0"),
-         .package(url: "https://github.com/rcaraway/HappyAPIService", from: "1.0")
+         .package(url: "https://github.com/rcaraway/HappyLoader", .branch("master")),
+         .package(url: "https://github.com/rcaraway/HappyDefaults", .branch("master")),
+         .package(url: "https://github.com/rcaraway/HappyToast", .branch("master")),
+         .package(url: "https://github.com/rcaraway/HappyAPIService", .branch("master"))
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
     ],
