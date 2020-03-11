@@ -5,12 +5,13 @@ A series of tools for iOS Swift and Vapor backend intended to encourage rapid de
 
 # HappyPath key tenants:
 1. Prioritize Speed of development & stability.
-2. Are not flexible by design.  Get it up and running fast. Fork to customize. 
-3. Focuses on the happy path: get it done easy & fast. 
+2. Focuses on the happy path: get it done easy & fast. 
+3. Are only flexible as a secondary priority.  Get it up and running fast. Fork to customize. 
 
+Some of the components are ours, and some are made from other that fit our criteria.
 
 ## Directory: 
-- Visual Basics:
+- Visual Components:
     - [Show Toast mesages](https://github.com/rcaraway/HappyToast)
     - [Show full screen loading](https://github.com/rcaraway/HappyLoader)
 - Data Persistence
