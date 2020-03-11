@@ -75,3 +75,6 @@ A series of tools for iOS Swift and Vapor backend intended to encourage rapid de
 - Enable location and others
 - Image scroller
 
+### Vapor Backend
+- Email Validation
+- Login POST call
