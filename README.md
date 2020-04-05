@@ -19,28 +19,33 @@ Some of the components are ours, and some are made from other that fit our crite
 - Networking
     - [Load a URLRequest the proper way in a few lines](https://github.com/rcaraway/HappyAPIService)
         - Also used to mock fake api requests
+    - [Build URLRequests with less effort](https://github.com/rcaraway/HappyRequestBuilder)
 
 
-##Informal Roadmap: 
+## Informal Roadmap: 
 ### iOS
 - Components
 - ✅ Dialog loading
 - ✅ BaseAPI (Loading Request)
 - ✅ Quick settings
 - ✅ Toast messages
-- (In Progress) Happy colors
-    - Each major color in its prettiest form
-    - ColorWithHex
-- HappyStyling 
+- ✅ Happy colors
+- HappyStyling  
     - Nav bars
     - Search bars
     - Default font stylings
+    - Default button 
+    - Default Label styling
+    - Default text field styling
+    - Default text view styling
 - Alert messages
     - Action Sheet or alert
 - Quick keychain
 - Happy Conversions
     - Int to money string
     - Date to Pretty String
+- Happy Sockets
+   - Get sockets up in running in few steps
 - Happy Strings: 
     - Common string messages used in apps
         - No internet 
@@ -54,18 +59,15 @@ Some of the components are ours, and some are made from other that fit our crite
 - In app purchase kit 
 - Sales screen
 - Circle Ci run testflight file
+- Default Fastlane file
 
-
-- LoginScreen
-- API Interface (Request Builder)
 - Network connectivity
 - Forms (like signup) and factory builder object
--  Quick Core Data
+- Quick Core Data
 - Search interface
-
 - Input on top of keyboard
     - Enter verification code screen
-- Quick Storyboard access
+- Quick Storyboard referencing
 - Quick UITableView/CollectionViewCell registration
 - Contsraints
     - Center to superview
