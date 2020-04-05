@@ -14,6 +14,8 @@ Some of the components are ours, and some are made from other that fit our crite
 - Visual Components:
     - [Show Toast mesages](https://github.com/rcaraway/HappyToast)
     - [Show full screen loading](https://github.com/rcaraway/HappyLoader)
+    - [Show quick Alerts](https://github.com/rcaraway/HappyAlert)
+    - [Easy selection of pretty colors](https://github.com/rcaraway/HappyColors)
 - Data Persistence
     - [Save Light data to UserDefaults Easier](https://github.com/rcaraway/HappyDefaults)
 - Networking
@@ -38,8 +40,7 @@ Some of the components are ours, and some are made from other that fit our crite
     - Default Label styling
     - Default text field styling
     - Default text view styling
-- Alert messages
-    - Action Sheet or alert
+- ✅ Alert messages
 - Quick keychain
 - Happy Conversions
     - Int to money string
