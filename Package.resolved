@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HappyLoader",
+        "repositoryURL": "https://github.com/rcaraway/BasicLoader.git",
+        "state": {
+          "branch": "master",
+          "revision": "0ca5a646e51b62d0e09add616efe4247469dd70e",
+          "version": null
+        }
+      },
+      {
+        "package": "HappyAlert",
+        "repositoryURL": "https://github.com/rcaraway/HappyAlert",
+        "state": {
+          "branch": "master",
+          "revision": "9bb9034fff5e609a2b21bee746e397ad6b852ea6",
+          "version": null
+        }
+      },
+      {
+        "package": "HappyAPIService",
+        "repositoryURL": "https://github.com/rcaraway/HappyAPIService.git",
+        "state": {
+          "branch": "master",
+          "revision": "62978006b0345d4a28ea808d3096ba551b0cf444",
+          "version": null
+        }
+      },
+      {
+        "package": "HappyColors",
+        "repositoryURL": "https://github.com/rcaraway/HappyColors.git",
+        "state": {
+          "branch": "master",
+          "revision": "2bbadd4d9eb400910ddbf0224c32d988414fc6a7",
+          "version": null
+        }
+      },
+      {
+        "package": "HappyDefaults",
+        "repositoryURL": "https://github.com/rcaraway/HappyDefaults.git",
+        "state": {
+          "branch": "master",
+          "revision": "631def758b42d700df9b6bcd62442618b4b79bb9",
+          "version": null
+        }
+      },
+      {
+        "package": "HappyRequestBuilder",
+        "repositoryURL": "https://github.com/rcaraway/HappyRequestBuilder.git",
+        "state": {
+          "branch": "master",
+          "revision": "5df92aef7a722b5b37ace37329ea1c26a1c9fbb1",
+          "version": null
+        }
+      },
+      {
+        "package": "HappyToast",
+        "repositoryURL": "https://github.com/rcaraway/HappyToast.git",
+        "state": {
+          "branch": "master",
+          "revision": "23851a402ece0ce4afeee5613b4e523070e8daf3",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
