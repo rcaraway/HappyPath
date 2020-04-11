@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/rcaraway/HappyAlert",
         "state": {
           "branch": "master",
-          "revision": "9bb9034fff5e609a2b21bee746e397ad6b852ea6",
+          "revision": "3c1c90c511c129828a208c97833096488a2a7aaf",
           "version": null
         }
       },
@@ -24,7 +24,7 @@
         "repositoryURL": "https://github.com/rcaraway/HappyAPIService.git",
         "state": {
           "branch": "master",
-          "revision": "62978006b0345d4a28ea808d3096ba551b0cf444",
+          "revision": "1429a5c8a90897b0932ddeac27673f9a51ea2cc6",
           "version": null
         }
       },
