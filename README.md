@@ -36,7 +36,7 @@ Some of the components are ours, and some are made from other that fit our crite
     - Nav bars
     - Search bars
     - Default font stylings
-    - Default button 
+    - ✅ Default button 
     - Default Label styling
     - Default text field styling
     - Default text view styling

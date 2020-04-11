@@ -29,6 +29,15 @@
         }
       },
       {
+        "package": "HappyButton",
+        "repositoryURL": "https://github.com/rcaraway/HappyButton.git",
+        "state": {
+          "branch": "master",
+          "revision": "00b92947da0094c7b10c51e6f101936d499b7b38",
+          "version": null
+        }
+      },
+      {
         "package": "HappyColors",
         "repositoryURL": "https://github.com/rcaraway/HappyColors.git",
         "state": {

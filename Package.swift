@@ -21,7 +21,8 @@ let package = Package(
         .package(url: "https://github.com/rcaraway/HappyAPIService.git", .branch("master")),
         .package(url: "https://github.com/rcaraway/HappyDefaults.git", .branch("master")),
         .package(url: "https://github.com/rcaraway/HappyRequestBuilder.git", .branch("master")),
-        .package(url: "https://github.com/rcaraway/HappyColors.git", .branch("master"))
+        .package(url: "https://github.com/rcaraway/HappyColors.git", .branch("master")),
+        .package(url: "https://github.com/rcaraway/HappyButton.git", .branch("master"))
     ],
     targets: [
         .target(
@@ -32,7 +33,7 @@ let package = Package(
                             "HappyAPIService",
                             "HappyDefaults",
                             "HappyRequestBuilder",
-                            "HappyColors"]),
+                            "HappyColors", "HappyButton"]),
         .testTarget(
             name: "HappyPathTests",
             dependencies: ["HappyPath"]),
