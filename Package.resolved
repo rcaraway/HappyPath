@@ -65,6 +65,15 @@
         }
       },
       {
+        "package": "HappyTextField",
+        "repositoryURL": "https://github.com/rcaraway/HappyTextField.git",
+        "state": {
+          "branch": "master",
+          "revision": "ed6f3161bdaa2e224fe345b3e98eb283d510d810",
+          "version": null
+        }
+      },
+      {
         "package": "HappyToast",
         "repositoryURL": "https://github.com/rcaraway/HappyToast.git",
         "state": {

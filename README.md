@@ -42,6 +42,7 @@ Some of the components are ours, and some are made from other that fit our crite
     - Default text view styling
 - ✅ Alert messages
 - Quick keychain
+- Email & password validation
 - Happy Conversions
     - Int to money string
     - Date to Pretty String
